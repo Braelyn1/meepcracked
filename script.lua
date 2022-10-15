@@ -671,6 +671,6 @@ end
 Welcome:Show()
 Throwing:Show()
 MMain:Show()
-Annoyance:Show()
-Cloner:Show()
+Annoyance:Show(Pstt)
+Cloner:Show(Greg-S)
 library:FormatWindows()
